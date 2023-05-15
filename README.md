@@ -1,5 +1,8 @@
 # WebServices
 
+![alt text](https://github.com/keziacamposcs/WebServices/blob/main/README/1.png)
+
+![alt text](https://github.com/keziacamposcs/WebServices/blob/main/README/2.png)
 
 ### Consumindo WebService - Correios (🇧🇷)
 
