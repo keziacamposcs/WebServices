@@ -1,5 +1,8 @@
 # WebServices
 
+![alt text](https://github.com/keziacamposcs/WebServices/blob/main/README/1.png)
+
+![alt text](https://github.com/keziacamposcs/WebServices/blob/main/README/2.png)
 
 ### Consumindo WebService - Correios (🇧🇷)
 
@@ -28,7 +31,7 @@ A página vai ter conteúdos como esse:
 ![image](https://github.com/keziacamposcs/WebServices/assets/32270979/a7125e95-a465-4cce-a036-3f183eec8243)
 
 
-2) Utiliza-se a extensão **Wizdler**:
+2) Utiliza-se a extensão [**Wizdler**](https://chrome.google.com/webstore/detail/wizdler/oebpmncolmhiapingjaagmapififiakb):
 
 <details><summary>O que Wizdler faz?</summary>
 Wizdler é uma extensão do Google Chrome que permite testar serviços web baseados em protocolo SOAP diretamente do navegador. Com o Wizdler, é possível enviar mensagens SOAP para um serviço web e visualizar a resposta do servidor, sem a necessidade de instalar uma ferramenta dedicada de testes de SOAP.
@@ -44,7 +47,7 @@ O Wizdler é uma ferramenta útil para desenvolvedores que precisam testar servi
 ![image](https://github.com/keziacamposcs/WebServices/assets/32270979/969b84d0-31a4-4cd1-8584-0ee01102bbea)
 
 
-3) Seleciona o que você precisa e faz a copia do texto para então usa-lo no Postman:
+3) Seleciona o que você precisa e faz a copia do texto para então usa-lo no [Postman](https://www.postman.com):
 
 ![image](https://github.com/keziacamposcs/WebServices/assets/32270979/9ffae27e-f00c-46b8-8e1c-e3b152a00423)
 
