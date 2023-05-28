@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{6CC602B6-A711-462F-B5C9-6F37B42013F2}|https">
+  <MonoDevelop.Ide.ItemProperties.BR__API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/IBrasilApi.cs">
+    <Files>
+      <File FileName="Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/BancoController.cs" Line="11" Column="20" />
+      <File FileName="Controllers/EnderecoController.cs" Line="1" Column="1" />
+      <File FileName="Interfaces/IBancoService.cs" Line="1" Column="1" />
+      <File FileName="Interfaces/IEnderecoService.cs" Line="1" Column="1" />
+      <File FileName="Interfaces/IBrasilApi.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BR_API" expanded="True">
+            <Node name="BR_API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
