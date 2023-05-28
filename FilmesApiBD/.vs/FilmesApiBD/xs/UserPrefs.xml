@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{CF707DCA-E511-4392-A1D3-A26EDE680A67}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Models/Filme.cs" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Controllers/FilmeController.cs" Line="1" Column="1" />
+      <File FileName="Data/FilmeContext.cs" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="2" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FilmesApiBD" expanded="True">
+            <Node name="FilmesApiBD" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FilmesApiBD PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
