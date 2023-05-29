@@ -4,6 +4,12 @@
 
 ![alt text](https://github.com/keziacamposcs/WebServices/blob/main/README/2.png)
 
+## Projects
+
+- Aplicação de uma Web API com .NET 6 de Filmes | Application of a Web API with .NET 6 of films (movies): [Here](https://github.com/keziacamposcs/WebServices/tree/main/FilmesApi)
+- Aplicação de uma Web API com .NET 6 de Filmes com Banco de Dados | Application of a Web API with .NET 6 of films (movies) with database: [Here](https://github.com/keziacamposcs/WebServices/tree/main/FilmesApiBD)
+
+---
 ### Consumindo WebService - Correios (🇧🇷)
 
 1) Os Correios fornece um WebService para consulta dos seus serviços:
